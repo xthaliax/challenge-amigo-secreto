@@ -2,7 +2,7 @@
 
 ![Amigosecreto](https://github.com/user-attachments/assets/5a23c0f7-a841-40a9-b5c7-3a00d119aee2)
 
-<h3>Este proyecto es una aplicación web sencilla hecha con JavaScript, HTML y CSS que permite realizar sorteos entre amigos. </h3>
+<h3 align="center">Este proyecto es una aplicación web sencilla hecha con JavaScript, HTML y CSS que permite realizar sorteos entre amigos. </h3>
 
 <h2>¿Cómo Funciona?</h2>
 
