@@ -34,7 +34,7 @@ function mostrarAmigo(){
 function sortearAmigo(){
 
     if(amigos == ""){
-        alert("Ingresa los nombres para poder iniciar el sorteo");
+        alert("Ingresa algún nombre para poder iniciar el sorteo");
     }else{
         let sorteado = Math.floor(Math.random()*amigos.length);
 
